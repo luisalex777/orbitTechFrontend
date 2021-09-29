@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/547572be-2116-414d-803b-2f06fa54fdb4/resourceGroups/OrbiTech/providers/Microsoft.Web/sites/OrbiTechFront",
+    "appService.deploySubpath": ""
+}
